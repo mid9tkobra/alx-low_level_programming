@@ -1,5 +1,9 @@
 #include <stdio.h>
-/* print 0 */
+/**
+ * main - Prints 0 as a message.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int i;
